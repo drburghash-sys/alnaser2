@@ -1,4 +1,4 @@
-const CACHE="alnaser2-v1";
+const CACHE="alnaser-hub-v14";
 const ASSETS=[
   "/alnaser2/","/alnaser2/index.html","/alnaser2/style.css","/alnaser2/app.js",
   "/alnaser2/manifest.webmanifest",
