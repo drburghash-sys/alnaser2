@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#082c68">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="نصر هَب">
+<title>نصر هَب | NASSR HUB</title>
+<link rel="manifest" href="manifest-v2.webmanifest?v=13">
+<link rel="icon" href="icons/icon-192.png?v=13" type="image/png" sizes="192x192">
+<link rel="apple-touch-icon" sizes="180x180" href="icons/icon-512.png?v=13">
+<link rel="shortcut icon" href="icons/icon-192.png?v=13" type="image/png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+<header class="topbar">
+  <div class="brand">
+    <div class="mark">N</div>
+    <div><h1>نصر هَب <span>NASSR HUB</span></h1><p>موسوعة جماهيرية لنادي النصر</p></div>
+    <button class="iconBtn" id="infoBtn" aria-label="عن البيانات">ⓘ</button>
+  </div>
+  <label class="search"><span>⌕</span><input id="q" autocomplete="off" placeholder="ابحث عن لاعب، بطولة، سنة أو رقم..."></label>
+</header>
+
+<main>
+<section id="home" class="screen active">
+  <article class="heroCard">
+    <div class="heroCopy">
+      <span class="pill dark">بطل دوري 2025/26</span>
+      <h2>العالمي، بصورة أعمق.</h2>
+      <p>اللاعبون، البطولات، الموسم الحالي، الأرقام والتاريخ في تطبيق واحد.</p>
+      <div class="heroActions"><button data-go="season">الموسم الحالي</button><button data-go="squad" class="ghost">التشكيلة</button></div>
+    </div>
+    <div class="crestWord">N</div>
+  </article>
+
+  <section class="liveStrip">
+    <div><small>دوري روشن 2026/27</small><strong>المركز 3</strong></div>
+    <div><small>النقاط</small><strong>16</strong></div>
+    <div><small>لعب</small><strong>7</strong></div>
+    <div><small>فوز</small><strong>5</strong></div>
+  </section>
+
+  <section class="block">
+    <div class="heading"><div><small>القادم</small><h3>النصر × الدرعية</h3></div><span class="dateBadge">9 أكتوبر</span></div>
+    <div class="matchCard">
+      <div class="clubSide"><div class="clubBadge nassr">N</div><strong>النصر</strong></div>
+      <div class="versus"><b>VS</b><small>الجولة 8 · الأول بارك</small></div>
+      <div class="clubSide"><div class="clubBadge rival">د</div><strong>الدرعية</strong></div>
+    </div>
+  </section>
+
+  <section class="block">
+    <div class="heading"><div><small>أبرز لاعبي الموسم</small><h3>نجوم النصر</h3></div><button class="linkBtn" data-go="squad">عرض الجميع</button></div>
+    <div id="featured" class="horizontal"></div>
+  </section>
+
+  <section class="block">
+    <div class="heading"><div><small>الخزانة</small><h3>بطولات موثقة</h3></div><button class="linkBtn" data-go="trophies">التفاصيل</button></div>
+    <div class="trophySummary">
+      <div><b>20</b><span>بطولة الدوري حسب موقع النصر</span></div>
+      <div><b>2</b><span>بطولتان آسيويتان</span></div>
+      <div><b>1955</b><span>عام التأسيس</span></div>
+      <div><b>رسمي</b><span>المصدر: alnassr.sa</span></div>
+    </div>
+  </section>
+
+  <section class="block">
+    <button class="archiveCallout" data-go="seasons">
+      <div><small>من 1974/75 إلى اليوم</small><strong>أرشيف المواسم</strong><span>بطولات، مشوار آسيوي، نجوم كل حقبة ومصادر التوثيق</span></div>
+      <b>‹</b>
+    </button>
+  </section>
+
+  <section class="block">
+    <div class="heading"><div><small>آخر تحديث</small><h3>6 أكتوبر 2026</h3></div></div>
+    <div class="sourceBox">البيانات الموسمية تتغير باستمرار. يعرض التطبيق تاريخ التحديث ومصدر كل مجموعة بيانات بدل ترك الأرقام القديمة تبدو وكأنها آنية.</div>
+  </section>
+</section>
+
+<section id="squad" class="screen">
+  <div class="pageHead"><div><small>الحاليون والأساطير</small><h2>اللاعبون</h2></div><span id="playersMeta">قاعدة موسوعية</span></div>
+  <div class="segmented" id="squadFilter">
+    <button class="active" data-filter="all">الحاليون</button><button data-filter="GK">حراس</button><button data-filter="DF">دفاع</button><button data-filter="MF">وسط</button><button data-filter="FW">هجوم</button><button data-filter="legend">الأساطير والرموز</button><button data-filter="foreign">الأجانب التاريخيون</button>
+  </div>
+  <div id="playersGrid" class="playersGrid"></div>
+</section>
+
+<section id="trophies" class="screen">
+  <div class="pageHead"><div><small>التاريخ الذهبي</small><h2>خزانة البطولات</h2></div><span>موثقة حسب المسابقة</span></div>
+  <div id="trophyList" class="trophyList"></div>
+  <div class="sourceBox warn">سياسة التطبيق: عدادات البطولات والأرقام التاريخية تعتمد أولًا على موقع نادي النصر الرسمي. أي رقم من الاتحاد السعودي أو رابطة الدوري أو AFC يظهر كتفصيل ثانوي فقط إذا لم يرد له رقم صريح في موقع النادي.</div>
+</section>
+
+<section id="seasons" class="screen">
+  <div class="pageHead"><div><small>أرشيف النادي</small><h2>المواسم</h2></div><span id="seasonArchiveMeta">موثق بالمصادر</span></div>
+  <div class="segmented" id="seasonFilter">
+    <button class="active" data-season-filter="all">الكل</button>
+    <button data-season-filter="title">مواسم البطولات</button>
+    <button data-season-filter="asia">المواسم الآسيوية</button>
+    <button data-season-filter="modern">من 2010</button>
+  </div>
+  <div id="seasonArchive" class="seasonArchive"></div>
+  <button class="historyLink" data-go="history">مشاهدة الخط الزمني الكامل للنادي ←</button>
+</section>
+
+<section id="season" class="screen">
+  <div class="pageHead"><div><small>دوري روشن</small><h2>موسم 2026/27</h2></div><span>آخر تحديث 6 أكتوبر</span></div>
+  <div class="seasonHero">
+    <div class="rank"><small>المركز</small><b>3</b><span>16 نقطة</span></div>
+    <div class="seasonNumbers">
+      <div><b>7</b><small>لعب</small></div><div><b>5</b><small>فاز</small></div><div><b>1</b><small>تعادل</small></div><div><b>1</b><small>خسر</small></div><div><b>16</b><small>هدف</small></div>
+    </div>
+  </div>
+  <section class="block"><div class="heading"><div><small>الروزنامة</small><h3>المباريات القريبة</h3></div></div><div id="fixtures" class="fixtureList"></div></section>
+  <section class="block"><div class="heading"><div><small>إحصائيات فردية موثقة</small><h3>أبرز اللاعبين</h3></div></div><div id="statLeaders" class="leaderList"></div></section>
+  <section class="block"><div class="heading"><div><small>تحركات صيف 2026</small><h3>الانتقالات</h3></div></div><div class="transferGrid"><div><b>داخل</b><span>سامو كوستا</span><small>من ريال مايوركا</small></div><div><b>خارج</b><span>مارسيلو بروزوفيتش</span><small>لاعب حر</small></div><div><b>إعارة</b><span>جون دوران</span><small>إلى بنفيكا</small></div><div><b>إعارة</b><span>ويسلي</span><small>إلى كروزيرو</small></div></div></section>
+</section>
+
+<section id="history" class="screen">
+  <div class="pageHead"><div><small>من 1955</small><h2>تاريخ النصر</h2></div><span>محطات مختارة</span></div>
+  <div id="historyList" class="timeline"></div>
+</section>
+
+<section id="search" class="screen">
+  <div class="pageHead"><div><small>بحث شامل</small><h2>النتائج</h2></div><span id="searchCount"></span></div>
+  <div id="searchResults" class="searchResults"></div>
+</section>
+</main>
+
+<nav class="bottom">
+  <button class="active" data-go="home"><b>⌂</b><span>الرئيسية</span></button>
+  <button data-go="squad"><b>♟</b><span>اللاعبون</span></button>
+  <button data-go="trophies"><b>♛</b><span>البطولات</span></button>
+  <button data-go="seasons"><b>▥</b><span>المواسم</span></button>
+  <button data-go="history"><b>◷</b><span>التاريخ</span></button>
+</nav>
+</div>
+
+<div class="modal" id="playerModal" aria-hidden="true">
+  <div class="modalShade" data-close-modal></div>
+  <article class="modalCard">
+    <button class="closeBtn" data-close-modal>×</button>
+    <div id="playerDetail"></div>
+  </article>
+</div>
+
+<div class="modal" id="seasonModal" aria-hidden="true">
+  <div class="modalShade" data-close-season></div>
+  <article class="modalCard">
+    <button class="closeBtn" data-close-season>×</button>
+    <div id="seasonDetail"></div>
+  </article>
+</div>
+
+<div class="modal" id="infoModal" aria-hidden="true">
+  <div class="modalShade" data-close-info></div>
+  <article class="modalCard compact">
+    <button class="closeBtn" data-close-info>×</button>
+    <h3>عن البيانات</h3>
+    <p>المصدر الأول للألقاب والأرقام التاريخية هو موقع نادي النصر الرسمي alnassr.sa. نستخدم الاتحاد السعودي، رابطة الدوري وAFC للتفاصيل والمباريات والمواسم أو عند غياب المعلومة من موقع النادي، مع تمييزها كمصدر ثانوي.</p>
+    <div id="sourceLinks" class="sourceLinks"></div>
+  </article>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
