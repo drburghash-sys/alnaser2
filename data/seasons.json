@@ -1,0 +1,1233 @@
+[
+  {
+    "id": "1974-75",
+    "label": "1974/75",
+    "era": "الدوري التصنيفي",
+    "division": "Categorization League",
+    "teams": "16 (8)",
+    "points": 21,
+    "league": "بطل الدوري التصنيفي",
+    "leaguePosition": "بطل",
+    "honours": [
+      "الدوري التصنيفي"
+    ],
+    "continental": "—",
+    "stars": [
+      "abdali",
+      "nasser-johar",
+      "salem-marwan"
+    ],
+    "status": "موثق بتصنيف مستقل",
+    "note": "فاز النصر بالدوري التصنيفي 1974/75، وهو بطولة انتقالية سبقت الانطلاقة المستمرة للدوري الممتاز. بعض المراجع الآسيوية تضمه إلى رصيد الدوري، وأخرى تفصله.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/1974%E2%80%9375_Saudi_Categorization_League",
+      "https://assets.the-afc.com/migration/2/0/2020-afc-champions-league-group-stage-programme"
+    ],
+    "sourceLevel": "مفصل",
+    "statsVerified": false
+  },
+  {
+    "id": "1975-76",
+    "label": "1975/76",
+    "era": "الحقبة الذهبية المبكرة",
+    "division": "Cancelled",
+    "teams": "8",
+    "points": 6,
+    "league": "الموسم ألغي بعد بدايته",
+    "leaguePosition": "3",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أُلغي الموسم بعد بدايته، وكان النصر ثالثًا وقت الإلغاء.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1976-77",
+    "label": "1976/77",
+    "era": "الحقبة الذهبية المبكرة",
+    "division": "Premier League",
+    "teams": "8",
+    "points": 17,
+    "league": "Premier League — المركز 2",
+    "leaguePosition": "2",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 2 برصيد 17 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1977-78",
+    "label": "1977/78",
+    "era": "الحقبة الذهبية المبكرة",
+    "division": "Premier League",
+    "teams": "10",
+    "points": 28,
+    "league": "Premier League — المركز 2",
+    "leaguePosition": "2",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 2 برصيد 28 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1978-79",
+    "label": "1978/79",
+    "era": "الحقبة الذهبية المبكرة",
+    "division": "Premier League",
+    "teams": "10",
+    "points": 28,
+    "league": "Premier League — المركز 2",
+    "leaguePosition": "2",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 2 برصيد 28 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1979-80",
+    "label": "1979/80",
+    "era": "عصر ماجد",
+    "division": "Premier League",
+    "teams": "10",
+    "points": 29,
+    "league": "بطل الدوري",
+    "leaguePosition": "بطل",
+    "honours": [
+      "الدوري السعودي"
+    ],
+    "continental": "—",
+    "stars": [
+      "majed",
+      "salem-marwan",
+      "youssef-khamis",
+      "hamadi-agrebi",
+      "mokhtar-dhouieb",
+      "raouf-ben-aziza",
+      "lino-brazil"
+    ],
+    "status": "موثق",
+    "note": "لقب 1980 وارد في أدلة الاتحاد الآسيوي.",
+    "sources": [
+      "https://assets.the-afc.com/migration/2/0/2019%20programme%20QF%20%28Japan%29.pdf"
+    ],
+    "sourceLevel": "مفصل",
+    "statsVerified": false
+  },
+  {
+    "id": "1980-81",
+    "label": "1980/81",
+    "era": "عصر ماجد",
+    "division": "Premier League",
+    "teams": "10",
+    "points": 26,
+    "league": "بطل الدوري",
+    "leaguePosition": "بطل",
+    "honours": [
+      "الدوري السعودي",
+      "كأس الملك"
+    ],
+    "continental": "—",
+    "stars": [
+      "majed",
+      "muhaysin",
+      "youssef-khamis",
+      "ailton-lira",
+      "toninho-old",
+      "raouf-ben-aziza"
+    ],
+    "status": "موثق",
+    "note": "موسم ارتبط بالدوري وكأس الملك في السجل التاريخي.",
+    "sources": [
+      "https://assets.the-afc.com/migration/2/0/2019%20programme%20QF%20%28Japan%29.pdf"
+    ],
+    "sourceLevel": "مفصل",
+    "statsVerified": false
+  },
+  {
+    "id": "1981-82",
+    "label": "1981/82",
+    "era": "الحقبة الذهبية المبكرة",
+    "division": "Premier League",
+    "teams": "20 (10)",
+    "points": 27,
+    "league": "Premier League — المركز 4",
+    "leaguePosition": "4",
+    "honours": [],
+    "continental": "—",
+    "stars": [
+      "ailton-lira",
+      "raouf-ben-aziza"
+    ],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 4 برصيد 27 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1982-83",
+    "label": "1982/83",
+    "era": "الحقبة الذهبية المبكرة",
+    "division": "Premier League",
+    "teams": "10",
+    "points": 20,
+    "league": "Premier League — المركز 3",
+    "leaguePosition": "3",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 3 برصيد 20 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1983-84",
+    "label": "1983/84",
+    "era": "الحقبة الذهبية المبكرة",
+    "division": "Premier League",
+    "teams": "10",
+    "points": 20,
+    "league": "Premier League — المركز 3",
+    "leaguePosition": "3",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 3 برصيد 20 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1984-85",
+    "label": "1984/85",
+    "era": "الحقبة الذهبية المبكرة",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 25,
+    "league": "Premier League — المركز 5",
+    "leaguePosition": "5",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 5 برصيد 25 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1985-86",
+    "label": "1985/86",
+    "era": "الحقبة الذهبية المبكرة",
+    "division": "Premier League",
+    "teams": "12 (6)",
+    "points": 17,
+    "league": "Premier League — المركز 3",
+    "leaguePosition": "3",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 3 برصيد 17 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1986-87",
+    "label": "1986/87",
+    "era": "الحقبة الذهبية المبكرة",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 31,
+    "league": "Premier League — المركز 3",
+    "leaguePosition": "3",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 3 برصيد 31 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1987-88",
+    "label": "1987/88",
+    "era": "الحقبة الذهبية المبكرة",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 32,
+    "league": "Premier League — المركز 3",
+    "leaguePosition": "3",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 3 برصيد 32 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1988-89",
+    "label": "1988/89",
+    "era": "جيل ذهبي",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 35,
+    "league": "بطل الدوري",
+    "leaguePosition": "بطل",
+    "honours": [
+      "الدوري السعودي"
+    ],
+    "continental": "—",
+    "stars": [
+      "majed",
+      "muhaysin",
+      "herafy",
+      "saleh-mutlaq"
+    ],
+    "status": "موثق",
+    "note": "أحد ألقاب الدوري في الجيل الذهبي للنصر.",
+    "sources": [
+      "https://assets.the-afc.com/migration/2/0/2019%20programme%20QF%20%28Japan%29.pdf"
+    ],
+    "sourceLevel": "مفصل",
+    "statsVerified": false
+  },
+  {
+    "id": "1989-90",
+    "label": "1989/90",
+    "era": "الحقبة الذهبية المبكرة",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 26,
+    "league": "Premier League — المركز 3",
+    "leaguePosition": "3",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 3 برصيد 26 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1990-91",
+    "label": "1990/91",
+    "era": "التسعينات والعالمية",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 32,
+    "league": "Premier League — المركز 2",
+    "leaguePosition": "2",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 2 برصيد 32 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1991-92",
+    "label": "1991/92",
+    "era": "التسعينات والعالمية",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 27,
+    "league": "Premier League — المركز 3",
+    "leaguePosition": "3",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 3 برصيد 27 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1992-93",
+    "label": "1992/93",
+    "era": "التسعينات والعالمية",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 19,
+    "league": "Premier League — المركز 9",
+    "leaguePosition": "9",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 9 برصيد 19 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1993-94",
+    "label": "1993/94",
+    "era": "جيل التسعينات",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 38,
+    "league": "بطل الدوري",
+    "leaguePosition": "بطل",
+    "honours": [
+      "الدوري السعودي"
+    ],
+    "continental": "—",
+    "stars": [
+      "majed",
+      "muhaysin",
+      "herafy",
+      "saleh-mutlaq",
+      "hysen-zmijani",
+      "ohene-kennedy"
+    ],
+    "status": "موثق",
+    "note": "بداية لقبين متتاليين في التسعينات.",
+    "sources": [
+      "https://assets.the-afc.com/migration/2/0/2019%20programme%20QF%20%28Japan%29.pdf"
+    ],
+    "sourceLevel": "مفصل",
+    "statsVerified": false
+  },
+  {
+    "id": "1994-95",
+    "label": "1994/95",
+    "era": "جيل التسعينات",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 40,
+    "league": "بطل الدوري",
+    "leaguePosition": "بطل",
+    "honours": [
+      "الدوري السعودي"
+    ],
+    "continental": "وصيف بطولة الأندية الآسيوية",
+    "stars": [
+      "majed",
+      "muhaysin",
+      "herafy",
+      "fahad-masaud",
+      "hysen-zmijani",
+      "ohene-kennedy",
+      "alexander-freeman"
+    ],
+    "status": "موثق",
+    "note": "جمع الموسم بين لقب محلي بارز وبلوغ النهائي القاري.",
+    "sources": [
+      "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+    ],
+    "sourceLevel": "مفصل",
+    "statsVerified": false
+  },
+  {
+    "id": "1995-96",
+    "label": "1995/96",
+    "era": "التسعينات والعالمية",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 33,
+    "league": "Premier League — المركز 4",
+    "leaguePosition": "4",
+    "honours": [],
+    "continental": "—",
+    "stars": [
+      "ohene-kennedy",
+      "youssouf-fofana"
+    ],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 4 برصيد 33 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1996-97",
+    "label": "1996/97",
+    "era": "التسعينات والعالمية",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 39,
+    "league": "Premier League — المركز 3",
+    "leaguePosition": "3",
+    "honours": [],
+    "continental": "—",
+    "stars": [
+      "hysen-zmijani",
+      "ohene-kennedy"
+    ],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 3 برصيد 39 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1997-98",
+    "label": "1997/98",
+    "era": "المجد الآسيوي",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 37,
+    "league": "—",
+    "leaguePosition": "4",
+    "honours": [
+      "كأس الكؤوس الآسيوية",
+      "السوبر الآسيوي"
+    ],
+    "continental": "بطل كأس الكؤوس والسوبر الآسيوي",
+    "stars": [
+      "majed",
+      "herafy",
+      "muhaysin",
+      "stoichkov",
+      "victor-diany",
+      "mamadou-sow"
+    ],
+    "status": "موثق",
+    "note": "أهم موسم قاري في تاريخ النادي؛ قاد لاحقًا إلى بطاقة كأس العالم للأندية.",
+    "sources": [
+      "https://www.the-afc.com/en/club/fifa_club_world_cup/news/al_nassrs_unique_run_to_the_global_stage.html"
+    ],
+    "sourceLevel": "مفصل",
+    "statsVerified": false
+  },
+  {
+    "id": "1998-99",
+    "label": "1998/99",
+    "era": "التسعينات والعالمية",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 33,
+    "league": "Premier League — المركز 4",
+    "leaguePosition": "4",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 4 برصيد 33 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "1999-00",
+    "label": "1999/00",
+    "era": "العالمية",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 45,
+    "league": "—",
+    "leaguePosition": "3",
+    "honours": [],
+    "continental": "كأس العالم للأندية 2000",
+    "stars": [
+      "herafy",
+      "fouad-anwar",
+      "fahad-mehallel",
+      "khojali",
+      "ibrahim-mater",
+      "ahmed-bahja",
+      "moussa-saib"
+    ],
+    "status": "موثق",
+    "note": "شارك النصر في النسخة الأولى من كأس العالم للأندية في البرازيل.",
+    "sources": [
+      "https://www.the-afc.com/en/club/fifa_club_world_cup/news/al_nassrs_unique_run_to_the_global_stage.html"
+    ],
+    "sourceLevel": "مفصل",
+    "statsVerified": false
+  },
+  {
+    "id": "2000-01",
+    "label": "2000/01",
+    "era": "التسعينات والعالمية",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 41,
+    "league": "Premier League — المركز 2",
+    "leaguePosition": "2",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 2 برصيد 41 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "2001-02",
+    "label": "2001/02",
+    "era": "مرحلة إعادة البناء",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 44,
+    "league": "Premier League — المركز 3",
+    "leaguePosition": "3",
+    "honours": [],
+    "continental": "—",
+    "stars": [
+      "julio-cesar-baldivieso",
+      "fadel-keita"
+    ],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 3 برصيد 44 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "2002-03",
+    "label": "2002/03",
+    "era": "مرحلة إعادة البناء",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 42,
+    "league": "Premier League — المركز 4",
+    "leaguePosition": "4",
+    "honours": [],
+    "continental": "—",
+    "stars": [
+      "julio-cesar-baldivieso",
+      "rock-bouskab",
+      "carlos-tenorio"
+    ],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 4 برصيد 42 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "2003-04",
+    "label": "2003/04",
+    "era": "مرحلة إعادة البناء",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 32,
+    "league": "Premier League — المركز 4",
+    "leaguePosition": "4",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 4 برصيد 32 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "2004-05",
+    "label": "2004/05",
+    "era": "مرحلة إعادة البناء",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 38,
+    "league": "Premier League — المركز 4",
+    "leaguePosition": "4",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 4 برصيد 38 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "2005-06",
+    "label": "2005/06",
+    "era": "مرحلة إعادة البناء",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 30,
+    "league": "Premier League — المركز 5",
+    "leaguePosition": "5",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 5 برصيد 30 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "2006-07",
+    "label": "2006/07",
+    "era": "مرحلة إعادة البناء",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 21,
+    "league": "Premier League — المركز 6",
+    "leaguePosition": "9",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "موثق إحصائيًا",
+    "note": "أنهى النصر الموسم في المركز التاسع برصيد 21 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records",
+      "https://www.rsssf.org/tabless/sau07.html"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": true
+  },
+  {
+    "id": "2007-08",
+    "label": "2007/08",
+    "era": "مرحلة إعادة البناء",
+    "division": "Premier League",
+    "teams": "12",
+    "points": 33,
+    "league": "Premier League — المركز 4",
+    "leaguePosition": "4",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "أرشيف أولي",
+    "note": "أنهى النصر الموسم في المركز 4 برصيد 33 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": false
+  },
+  {
+    "id": "2008-09",
+    "label": "2008/09",
+    "era": "مرحلة إعادة البناء",
+    "division": "Pro League",
+    "teams": "12",
+    "points": 34,
+    "league": "Pro League — المركز 4",
+    "leaguePosition": "5",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "موثق إحصائيًا",
+    "note": "أنهى النصر الموسم في المركز الخامس برصيد 34 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records",
+      "https://www.rsssf.org/tabless/sau09.html"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": true
+  },
+  {
+    "id": "2009-10",
+    "label": "2009/10",
+    "era": "العودة للمنافسة",
+    "division": "Pro League",
+    "teams": "12",
+    "points": 43,
+    "league": "Pro League — المركز 3",
+    "leaguePosition": "3",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "موثق إحصائيًا",
+    "note": "أنهى النصر الموسم في المركز 3 برصيد 43 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records",
+      "https://www.rsssf.org/tabless/sau2010.html"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": true
+  },
+  {
+    "id": "2010-11",
+    "label": "2010/11",
+    "era": "العودة للمنافسة",
+    "division": "Pro League",
+    "teams": "14",
+    "points": 43,
+    "league": "Pro League — المركز 5",
+    "leaguePosition": "5",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "موثق إحصائيًا",
+    "note": "أنهى النصر الموسم في المركز 5 برصيد 43 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records",
+      "https://www.rsssf.org/tabless/sau2011.html"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": true
+  },
+  {
+    "id": "2011-12",
+    "label": "2011/12",
+    "era": "العودة للمنافسة",
+    "division": "Pro League",
+    "teams": "14",
+    "points": 35,
+    "league": "Pro League — المركز 7",
+    "leaguePosition": "7",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "موثق إحصائيًا",
+    "note": "أنهى النصر الموسم في المركز 7 برصيد 35 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records",
+      "https://www.rsssf.org/tabless/sau2012.html"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": true
+  },
+  {
+    "id": "2012-13",
+    "label": "2012/13",
+    "era": "العودة للمنافسة",
+    "division": "Pro League",
+    "teams": "14",
+    "points": 50,
+    "league": "Pro League — المركز 4",
+    "leaguePosition": "4",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "موثق إحصائيًا",
+    "note": "أنهى النصر الموسم في المركز 4 برصيد 50 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records",
+      "https://www.rsssf.org/tabless/sau2013.html"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": true
+  },
+  {
+    "id": "2013-14",
+    "label": "2013/14",
+    "era": "العودة للقمة",
+    "division": "Pro League",
+    "teams": "14",
+    "points": 65,
+    "league": "بطل الدوري",
+    "leaguePosition": "1",
+    "honours": [
+      "الدوري السعودي"
+    ],
+    "continental": "—",
+    "stars": [
+      "sahlawi",
+      "hussein-abdulghani",
+      "omar-hawsawi",
+      "abdullah-enezi"
+    ],
+    "status": "موثق إحصائيًا",
+    "note": "عودة النصر إلى لقب الدوري بعد غياب طويل.",
+    "sources": [
+      "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747",
+      "https://www.rsssf.org/tabless/sau2014.html"
+    ],
+    "sourceLevel": "مفصل",
+    "statsVerified": true
+  },
+  {
+    "id": "2014-15",
+    "label": "2014/15",
+    "era": "تثبيت الهيمنة",
+    "division": "Pro League",
+    "teams": "14",
+    "points": 64,
+    "league": "بطل الدوري",
+    "leaguePosition": "1",
+    "honours": [
+      "الدوري السعودي"
+    ],
+    "continental": "دور المجموعات في دوري أبطال آسيا",
+    "stars": [
+      "sahlawi",
+      "hussein-abdulghani",
+      "omar-hawsawi",
+      "abdullah-enezi"
+    ],
+    "status": "موثق إحصائيًا",
+    "note": "احتفظ النصر بالدوري؛ محمد السهلاوي سجل هدف حسم الديربي أمام الهلال وبلغ 21 هدفًا في الموسم وفق AFC.",
+    "sources": [
+      "https://www.the-afc.com/en/more/news/al_nassr_atone_for_acl_elimination_with_saudi_league_triumph.html",
+      "https://www.rsssf.org/tabless/sau2015.html"
+    ],
+    "sourceLevel": "مفصل",
+    "statsVerified": true
+  },
+  {
+    "id": "2015-16",
+    "label": "2015/16",
+    "era": "العودة للمنافسة",
+    "division": "Pro League",
+    "teams": "14",
+    "points": 32,
+    "league": "Pro League — المركز 8",
+    "leaguePosition": "8",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "موثق إحصائيًا",
+    "note": "أنهى النصر الموسم في المركز 8 برصيد 32 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records",
+      "https://www.rsssf.org/tabless/sau2016.html"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": true
+  },
+  {
+    "id": "2016-17",
+    "label": "2016/17",
+    "era": "حقبة المحترفين",
+    "division": "Pro League",
+    "teams": "14",
+    "points": 52,
+    "league": "Pro League — المركز 3",
+    "leaguePosition": "3",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "موثق إحصائيًا",
+    "note": "أنهى النصر الموسم في المركز 3 برصيد 52 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records",
+      "https://www.rsssf.org/tabless/sau2017.html"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": true
+  },
+  {
+    "id": "2017-18",
+    "label": "2017/18",
+    "era": "حقبة المحترفين",
+    "division": "Pro League",
+    "teams": "14",
+    "points": 44,
+    "league": "Pro League — المركز 3",
+    "leaguePosition": "3",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "موثق إحصائيًا",
+    "note": "أنهى النصر الموسم في المركز 3 برصيد 44 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records",
+      "https://www.rsssf.org/tabless/sau2018.html"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": true
+  },
+  {
+    "id": "2018-19",
+    "label": "2018/19",
+    "era": "حقبة المحترفين",
+    "division": "Pro League",
+    "teams": "16",
+    "points": 70,
+    "league": "بطل الدوري",
+    "leaguePosition": "1",
+    "honours": [
+      "الدوري السعودي"
+    ],
+    "continental": "ربع نهائي دوري أبطال آسيا 2019",
+    "stars": [
+      "hamdallah",
+      "amrabat",
+      "petros",
+      "giuliano",
+      "omar-hawsawi"
+    ],
+    "status": "موثق إحصائيًا",
+    "note": "توج النصر بالدوري بفارق نقطة عن الهلال؛ وكانت بداية حقبة هجومية قوية لحمدالله.",
+    "sources": [
+      "https://assets.the-afc.com/migration/2/0/2019%20programme%20QF%20%28Japan%29.pdf",
+      "https://www.rsssf.org/tabless/sau2019.html"
+    ],
+    "sourceLevel": "مفصل",
+    "statsVerified": true
+  },
+  {
+    "id": "2019-20",
+    "label": "2019/20",
+    "era": "استمرار المنافسة",
+    "division": "Pro League",
+    "teams": "16",
+    "points": 64,
+    "league": "وصيف الدوري",
+    "leaguePosition": "2",
+    "honours": [
+      "كأس السوبر السعودي"
+    ],
+    "continental": "نصف نهائي دوري أبطال آسيا 2020",
+    "stars": [
+      "hamdallah",
+      "amrabat",
+      "petros",
+      "giuliano"
+    ],
+    "status": "موثق إحصائيًا",
+    "note": "حقق السوبر ووصل إلى نصف نهائي دوري أبطال آسيا للمرة الأولى.",
+    "sources": [
+      "https://www.saff.com.sa/news.php?id=194",
+      "https://www.the-afc.com/en/club/afc_champions_league/news/al_nassr_through_to_first_afc_champions_league_semi-final_with_win_over_al_ahli_saudi.html",
+      "https://www.rsssf.org/tabless/sau2020.html"
+    ],
+    "sourceLevel": "مفصل",
+    "statsVerified": true
+  },
+  {
+    "id": "2020-21",
+    "label": "2020/21",
+    "era": "المشوار الآسيوي",
+    "division": "Pro League",
+    "teams": "16",
+    "points": 46,
+    "league": "—",
+    "leaguePosition": "6",
+    "honours": [],
+    "continental": "نصف نهائي دوري أبطال آسيا 2021",
+    "stars": [
+      "hamdallah",
+      "talisca",
+      "petros",
+      "ghannam"
+    ],
+    "status": "موثق إحصائيًا",
+    "note": "بلغ النصر نصف نهائي آسيا بعد فوز 5-1 على الوحدة الإماراتي في ربع النهائي.",
+    "sources": [
+      "https://www.the-afc.com/en/club/afc_champions_league/news/report_al_wahda_fscc_uae_v_al_nassr_ksa.html",
+      "https://www.saff.com.sa/championship.php?id=1&season=2020"
+    ],
+    "sourceLevel": "مفصل",
+    "statsVerified": true
+  },
+  {
+    "id": "2021-22",
+    "label": "2021/22",
+    "era": "حقبة المحترفين",
+    "division": "Pro League",
+    "teams": "16",
+    "points": 61,
+    "league": "Pro League — المركز 3",
+    "leaguePosition": "3",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "موثق إحصائيًا",
+    "note": "أنهى النصر الموسم في المركز 3 برصيد 61 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records",
+      "https://www.spl.com.sa/en/match-center?season=2021"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": true
+  },
+  {
+    "id": "2022-23",
+    "label": "2022/23",
+    "era": "حقبة المحترفين",
+    "division": "Pro League",
+    "teams": "16",
+    "points": 67,
+    "league": "Pro League — المركز 2",
+    "leaguePosition": "2",
+    "honours": [],
+    "continental": "—",
+    "stars": [],
+    "status": "موثق إحصائيًا",
+    "note": "أنهى النصر الموسم في المركز 2 برصيد 67 نقطة.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Al-Nassr_FC#League_records",
+      "https://www.spl.com.sa/en/match-center?season=2022"
+    ],
+    "sourceLevel": "أرشيفي",
+    "statsVerified": true
+  },
+  {
+    "id": "2023-24",
+    "label": "2023/24",
+    "era": "حقبة رونالدو",
+    "division": "Pro League",
+    "teams": "18",
+    "points": 82,
+    "league": "وصيف دوري روشن",
+    "leaguePosition": "2",
+    "honours": [
+      "كأس الملك سلمان للأندية العربية 2023"
+    ],
+    "continental": "ربع نهائي دوري أبطال آسيا 2023/24",
+    "stars": [
+      "ronaldo",
+      "talisca",
+      "brozovic",
+      "otavio",
+      "mane"
+    ],
+    "status": "موثق إحصائيًا",
+    "note": "أنهى النصر الدوري ثانيًا في موسم هجومي بارز وواصل حضوره القاري.",
+    "sources": [
+      "https://www.spl.com.sa/en/news/al-nassr-have-season-to-remember-despite-rsl-title-miss",
+      "https://www.rsssf.org/tabless/sau2024.html"
+    ],
+    "sourceLevel": "مفصل",
+    "statsVerified": true
+  },
+  {
+    "id": "2024-25",
+    "label": "2024/25",
+    "era": "حقبة رونالدو",
+    "division": "Pro League",
+    "teams": "18",
+    "points": 70,
+    "league": "—",
+    "leaguePosition": "3",
+    "honours": [],
+    "continental": "نصف نهائي دوري أبطال آسيا للنخبة",
+    "stars": [
+      "ronaldo",
+      "mane",
+      "brozovic",
+      "talisca"
+    ],
+    "status": "موثق إحصائيًا",
+    "note": "بلغ النصر نصف نهائي دوري أبطال آسيا للنخبة بعد الفوز 4-1 على يوكوهاما مارينوس.",
+    "sources": [
+      "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/q-final-duran-shines-as-al-nassr-end-marinos-dreams-1",
+      "https://www.rsssf.org/tabless/sau2025.html"
+    ],
+    "sourceLevel": "مفصل",
+    "statsVerified": true
+  },
+  {
+    "id": "2025-26",
+    "label": "2025/26",
+    "era": "عودة البطل",
+    "division": "Pro League",
+    "teams": "18",
+    "points": 86,
+    "league": "بطل دوري روشن",
+    "leaguePosition": "1",
+    "honours": [
+      "دوري روشن السعودي"
+    ],
+    "continental": "وصيف دوري أبطال آسيا الثاني",
+    "stars": [
+      "ronaldo",
+      "felix",
+      "mane",
+      "coman",
+      "angelo"
+    ],
+    "status": "موثق",
+    "note": "حسم النصر الدوري بفوز 4-1 على ضمك، وأنهى الموسم بفارق نقطتين عن الهلال؛ كما بلغ نهائي دوري أبطال آسيا الثاني.",
+    "sources": [
+      "https://www.spl.com.sa/en/news/cristiano-ronaldo-double-fires-al-nassr-to-2025-26-rsl-title-glory",
+      "https://www.the-afc.com/ar/club/afc_champions_league_two/archive/202526.html"
+    ],
+    "sourceLevel": "مفصل",
+    "statsVerified": true
+  },
+  {
+    "id": "2026-27",
+    "label": "2026/27",
+    "era": "حامل اللقب",
+    "league": "موسم جارٍ",
+    "leaguePosition": "3",
+    "honours": [],
+    "continental": "موسم جارٍ",
+    "stars": [
+      "ronaldo",
+      "felix",
+      "mane",
+      "coman",
+      "costa",
+      "angelo"
+    ],
+    "status": "جارٍ — بعد الجولة 7",
+    "note": "بعد الجولة السابعة: النصر ثالثًا برصيد 16 نقطة، من 5 انتصارات وتعادل وخسارة.",
+    "sources": [
+      "https://www.spl.com.sa/en/news/postecoglou-lands-in-riyadh-to-begin-al-nassr-tenure",
+      "https://www.spl.com.sa/ar/teams/al-nassr/index?compSeason=858"
+    ],
+    "division": "Pro League",
+    "teams": "18",
+    "points": 16,
+    "sourceLevel": "موسم جارٍ",
+    "played": 7,
+    "statsVerified": true
+  }
+]

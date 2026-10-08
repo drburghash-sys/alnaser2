@@ -1,0 +1,57 @@
+[
+  {
+    "title": "بطولة الدوري",
+    "count": 20,
+    "countLabel": "20 لقبًا",
+    "seasons": "1961، 1963، 1966، 1968، 1969، 1970، 1971، 1972، 1974، 1974، 1975، 1980، 1981، 1989، 1994، 1995، 2014، 2015، 2019، 2026",
+    "note": "العدد والسنوات معتمدة كما يعرضها نادي النصر في سجل «ألقاب النصر في الدوري — دوري المحترفين السعودي في جميع مسمياته». يظهر عام 1974 مرتين في السجل الرسمي، ويُحفظ كما هو دون دمج.",
+    "source": "https://alnassr.sa/",
+    "sourceName": "موقع نادي النصر الرسمي",
+    "sourceType": "officialClub",
+    "official": true
+  },
+  {
+    "title": "البطولات الآسيوية",
+    "count": 2,
+    "countLabel": "بطولتان آسيويتان",
+    "seasons": "كأس الكؤوس الآسيوية 1998، السوبر الآسيوي 1998",
+    "note": "موقع نادي النصر الرسمي يذكر تحقيق بطولتين آسيويتين. أسماء البطولتين وتفاصيلهما تؤيدها مراجع الاتحاد الآسيوي.",
+    "source": "https://alnassr.sa/AROYA",
+    "sourceName": "موقع نادي النصر الرسمي",
+    "sourceType": "officialClub",
+    "official": true
+  },
+  {
+    "title": "كأس الملك",
+    "count": null,
+    "secondaryCount": 6,
+    "seasons": "1974، 1976، 1981، 1986، 1987، 1990",
+    "note": "التفاصيل محفوظة من مراجع ثانوية، لكن العدد لن يُعرض كرقم رسمي للنادي حتى نجد له توثيقًا صريحًا على موقع النصر.",
+    "source": "https://assets.the-afc.com/migration/2/0/2019%20programme%20QF%20%28Japan%29.pdf",
+    "sourceName": "مرجع ثانوي — AFC",
+    "sourceType": "secondary",
+    "official": false
+  },
+  {
+    "title": "كأس السوبر السعودي",
+    "count": null,
+    "secondaryCount": 2,
+    "seasons": "2019، 2020",
+    "note": "المواسم محفوظة من الاتحاد السعودي، لكن العداد الرسمي في التطبيق سيبقى معتمدًا على موقع النصر.",
+    "source": "https://www.saff.com.sa/championship.php?id=55&season=all",
+    "sourceName": "مرجع ثانوي — الاتحاد السعودي",
+    "sourceType": "secondary",
+    "official": false
+  },
+  {
+    "title": "كأس الملك سلمان للأندية العربية",
+    "count": null,
+    "secondaryCount": 1,
+    "seasons": "2023",
+    "note": "محفوظة في الأرشيف، ولا تدخل في أي عداد رسمي إلا وفق ما يورده موقع نادي النصر.",
+    "source": "https://www.spl.com.sa/en/teams/al-nassr/index",
+    "sourceName": "مرجع ثانوي — رابطة الدوري",
+    "sourceType": "secondary",
+    "official": false
+  }
+]
