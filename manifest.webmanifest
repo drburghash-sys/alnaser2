@@ -2,15 +2,18 @@
   "id": "/alnaser2/",
   "name": "نصر هَب - NASSR HUB",
   "short_name": "نصر هَب",
+  "description": "موسوعة جماهيرية لنادي النصر",
   "start_url": "/alnaser2/",
   "scope": "/alnaser2/",
   "display": "standalone",
+  "orientation": "any",
   "background_color": "#041126",
   "theme_color": "#082c68",
   "lang": "ar",
   "dir": "rtl",
   "icons": [
-    {"src": "/alnaser2/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
-    {"src": "/alnaser2/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+    {"src": "/alnaser2/icons/nassr-hub-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "/alnaser2/icons/nassr-hub-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "/alnaser2/icons/nassr-hub-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
   ]
 }
