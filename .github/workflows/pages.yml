@@ -38,6 +38,26 @@ jobs:
           PY
           file icons/nassr-hub-192.png icons/nassr-hub-512.png icons/nassr-hub-maskable-512.png icons/apple-touch-icon.png
 
+      - name: Verify PWA icon references
+        run: |
+          python - <<'PY'
+          import json, os, struct
+          with open("manifest.webmanifest", encoding="utf-8") as f:
+              manifest=json.load(f)
+          expected_prefix="/alnaser2/"
+          for icon in manifest["icons"]:
+              src=icon["src"].split("?",1)[0]
+              assert src.startswith(expected_prefix), f"Unexpected path: {src}"
+              path=src[len(expected_prefix):]
+              assert os.path.isfile(path), f"Missing PWA icon: {path}"
+              with open(path,"rb") as img:
+                  data=img.read(24)
+              assert data[:8]==b"\\x89PNG\\r\\n\\x1a\\n", f"Not PNG: {path}"
+              w,h=struct.unpack(">II",data[16:24])
+              expected=int(icon["sizes"].split("x")[0])
+              assert (w,h)==(expected,expected), f"Wrong icon size: {path}, {w}x{h}"
+          PY
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
         with:

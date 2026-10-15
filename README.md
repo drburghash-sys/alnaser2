@@ -15,7 +15,7 @@
 من Settings > Pages اختر **Deploy from a branch** ثم `main` و`/(root)`.
 
 بعد النشر يصبح الرابط:
-https://drburghash-sys.github.io/alnaser/
+https://drburghash-sys.github.io/alnaser2/
 
 
 ## بنية البيانات
@@ -49,3 +49,11 @@ https://drburghash-sys.github.io/alnaser/
 
 ## رابط النسخة الجديدة
 هذه النسخة مستقلة على المستودع alnaser2 وتُنشر عبر GitHub Pages.
+
+
+## ملاحظات إصلاح التثبيت — أكتوبر 2026
+- ملف التثبيت النشط هو `manifest.webmanifest`؛ أما `manifest-v2.webmanifest` فهو أثر قديم غير مستخدم وينبغي إزالته بعد اختبار النسخة الحالية.
+- تُنشأ ملفات PNG ذات الأسماء `nassr-hub-192.png` و`nassr-hub-512.png` و`nassr-hub-maskable-512.png` و`apple-touch-icon.png` من `icon-premium.svg` خلال GitHub Actions قبل رفع الموقع، لذلك لن تظهر في شجرة المصدر على GitHub.
+- يتأكد سير النشر آليًا من وجود أيقونات ملف التثبيت ومقاساتها قبل نشر الموقع.
+- تنظيف التخزين المؤقت يقتصر على هذا التطبيق ولا يمس ذاكرة تطبيقات GitHub Pages الأخرى.
+- تحديث أيقونة اختصار ثبت قديمًا على Android قد يتطلب إزالة الاختصار القديم وتثبيت الموقع مرة واحدة مجددًا.
