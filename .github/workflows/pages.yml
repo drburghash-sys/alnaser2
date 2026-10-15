@@ -52,7 +52,7 @@ jobs:
               assert os.path.isfile(path), f"Missing PWA icon: {path}"
               with open(path,"rb") as img:
                   data=img.read(24)
-              assert data[:8]==b"\\x89PNG\\r\\n\\x1a\\n", f"Not PNG: {path}"
+              assert data[:8]==bytes([137,80,78,71,13,10,26,10]), f"Not PNG: {path}"
               w,h=struct.unpack(">II",data[16:24])
               expected=int(icon["sizes"].split("x")[0])
               assert (w,h)==(expected,expected), f"Wrong icon size: {path}, {w}x{h}"
